@@ -1,2 +1,2 @@
 # Cgpa
-Chpa android app
+Cgpa android app
